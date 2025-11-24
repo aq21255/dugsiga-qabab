@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://madarsakhababinuarrati.com'
+  const baseUrl = 'https://khabbab.online'
   
   return [
     {
@@ -42,3 +42,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 }
+
